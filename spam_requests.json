@@ -1,0 +1,21 @@
+{
+    "requests": [
+        {
+            "id": "SX9H6W4D",
+            "user_id": 7943260217,
+            "eat_token": "https://ticket.kiosgamer.co.id/?eat=1f008c42ff541bfbfc54ae4b18a872a8c56b2cce65d30740b6157120760623f0ed200d3926569d006993bb8df3f2d0346494d6987d304a453d64a09de4297a2b81913d98e44475bd64d2fae0a68e7d46&lang=en&region=ME&account_id=15954449638&nickname=@acco+unt_ba",
+            "status": "approved",
+            "created_at": "2026-06-30T17:35:52.246810",
+            "approved_at": "2026-06-30T17:36:23.403579"
+        },
+        {
+            "id": "7QFM8LHO",
+            "user_id": 8054802202,
+            "eat_token": "https://ticket.kiosgamer.co.id/?eat=1f008c42ff541bfbfc54ae4b18a872a8c56b2cce65d30740b6157120760623f0ed200d3926569d006993bb8df3f2d0346494d6987d304a453d64a09de4297a2b81913d98e44475bd64d2fae0a68e7d46&lang=en&region=ME&account_id=15954449638&nickname=@acco+unt_ba",
+            "status": "pending",
+            "created_at": "2026-06-30T18:39:45.121860",
+            "approved_at": null
+        }
+    ],
+    "active": {}
+}

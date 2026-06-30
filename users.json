@@ -1,0 +1,54 @@
+{
+    "7943260217": {
+        "id": 7943260217,
+        "username": "r32pro",
+        "first_name": "\u57f9\u80b2 \ud835\udde5\ud835\udfef\ud835\udfee \ud835\uddd5\ud835\uddec\ud835\udde3\ud835\uddd4\ud835\udde6\ud835\udde6",
+        "joined_at": "2026-06-30T17:33:27.406577",
+        "keys": [
+            "R32-KEYCGA8M5MPC1GP"
+        ],
+        "token_history": [],
+        "language": "en",
+        "spam_active": false,
+        "spam_pending": false,
+        "is_admin": true
+    },
+    "8054802202": {
+        "id": 8054802202,
+        "username": "DoubleyourmoneyTripAdvisorrr",
+        "first_name": "Double your money TripAdvisor",
+        "joined_at": "2026-06-30T18:11:43.097793",
+        "keys": [
+            "R32-KEYZ5BRD9524ZVG"
+        ],
+        "token_history": [],
+        "language": "ar",
+        "spam_active": false,
+        "spam_pending": true,
+        "is_admin": false
+    },
+    "8652476320": {
+        "id": 8652476320,
+        "username": "X_1XOZ",
+        "first_name": "NASSEM",
+        "joined_at": "2026-06-30T23:46:52.785145",
+        "keys": [],
+        "token_history": [],
+        "language": "en",
+        "spam_active": false,
+        "spam_pending": false,
+        "is_admin": false
+    },
+    "6699136917": {
+        "id": 6699136917,
+        "username": "WHITE_FOX04",
+        "first_name": "\uff37\uff28\uff29\uff34\uff25 \ud83e\udd0d \uff26\uff2f\uff38 \ud83e\udd8a",
+        "joined_at": "2026-07-01T00:09:48.889859",
+        "keys": [],
+        "token_history": [],
+        "language": "en",
+        "spam_active": false,
+        "spam_pending": false,
+        "is_admin": false
+    }
+}
